@@ -20,7 +20,7 @@ pip install quimb
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/rvalencia1995/Driven1dRydberg.git
+git clone https://github.com/riccardovalencia/Driven1dRydberg.git
 ```
 
 ## Usage
