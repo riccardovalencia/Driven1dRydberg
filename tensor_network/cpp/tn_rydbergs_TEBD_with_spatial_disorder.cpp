@@ -194,7 +194,7 @@ int main(int argc , char* argv[]){
 
     for(double v : Vj) cerr << v << " ";
     cerr << "\n\n";
-    exit(0);
+    // exit(0);
 
     // vector<MyBondGate> gate = gates_rydberg_up_to_VNNN(sites , Deltaj, Omegaj, Vj, dt);
     
